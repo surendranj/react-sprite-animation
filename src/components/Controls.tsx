@@ -2,7 +2,7 @@ import { PlayerControlProps } from "../types";
 
 const Controls = (props: PlayerControlProps) => {
     return (
-        <div className="absolute z-10 top-[30px] left-1/2 -translate-x-1/2">
+        <div className="absolute z-10 top-[30px] left-1/2 -translate-x-1/2 text-xl">
             <label htmlFor="animations">Choose Animation: </label>
             <select name="animations" id="animations" value={props.value} onChange={props.handlePlayerStateChange}>
                 <option value="idle">Idle</option>
