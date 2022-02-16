@@ -1,4 +1,4 @@
-# Sprite Animation <img align="right" src="public/sprite-animation.gif" />
+# Sprite Animation With React <img align="right" src="public/sprite-animation.gif" />
 
 
 React project created by following the tutorial [Sprite Animation in JavaScript](https://www.youtube.com/watch?v=CY0HE277IBM&list=PLYElE_rzEw_uryBrrzu2E626MY4zoXvx2) from [Franks laboratory](https://www.youtube.com/c/Frankslaboratory/videos).
